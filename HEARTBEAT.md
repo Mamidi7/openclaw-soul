@@ -1,45 +1,50 @@
 # HEARTBEAT.md
 
-**Date:** 2026-02-24
-**Day #:** 1
-**Topic:** Python + Gemini API Call
-**Hours spent:** ~1.5 hours
+**Date:** 2026-02-25
+**Day #:** 4
+**Topic:** Functions, Modules, List Comprehensions + SQL JOINs
+**Hours spent:** In progress
 
 ---
 
 ## Completed
 
-- [x] Read
-- [x] Manual console execution
-- [x] Code/notebook updated
-- [x] Quiz completed
-- [x] GitHub commit pushed
-- [x] Build GREEN
+- [x] Day 1: Python + Gemini API — ✅ GitHub PUSHED
+- [x] Day 2: Variables, data types, f-strings, BigQuery SQL — ✅ GitHub PUSHED
+- [x] Day 3: Lists, Tuples, Dictionaries + SQL — ✅ GitHub PUSHED
+- [x] Day 4: Functions, Modules, List Comprehensions + JOINs — 🔄 IN PROGRESS
 
 ---
 
-## Quiz Score
+## Current Focus
 
-**Score:** 7/10 (API analogy good, but missing technical HTTP flow)
-**Weak areas:** Need to explain full HTTP request/response flow for API calls
-
----
-
-## Blockers
-
-1. Initial venv issues — fixed by creating new venv
-2. Old SDK deprecated — switched to google.genai
-3. Old model names — updated to gemini-2.5-flash
+Day 4 execution:
+- Python: Functions (def, return, *args, **kwargs), Modules, List Comprehensions
+- SQL: JOINs (INNER, LEFT)
+- GitHub commit
 
 ---
 
-## Coach Verdict
+## Green Streak
 
-Day 1 done. Python + Gemini working. BigQuery SQL done. GitHub green. Bava executed well. Tomorrow — Day 2.
+| Day | Status |
+|-----|--------|
+| 1 | ✅ Pushed |
+| 2 | ✅ Pushed |
+| 3 | ✅ Pushed |
+| 4 | 🔄 In Progress |
 
 ---
 
-## Tomorrow
+## Today's Extras
 
-**Next topic:** Variables, data types, f-strings, print statements
-**Prep:** Review Python basics before session
+- ✅ Twitter trending analysis (6 tweets)
+- ✅ Obsidian vault setup
+- ✅ Skill graph documentation
+- ✅ Telegram configured
+
+---
+
+## Next
+
+Day 4: Functions, Modules, List Comprehensions + SQL JOINs
